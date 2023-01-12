@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'pages/chat_page.dart';
 
 class AppWidget extends StatelessWidget {
